@@ -1,0 +1,27 @@
+{
+  "name": "delights-distribution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SreejithSathyans07/Delights-Distribution.git"
+  },
+  "author": "Sreejith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SreejithSathyans07/Delights-Distribution/issues"
+  },
+  "homepage": "https://github.com/SreejithSathyans07/Delights-Distribution#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
